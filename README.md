@@ -9,7 +9,11 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/dimensional-potions-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/dimensional-potions-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/dimensional-potions-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/dimensional-potions-data-pack/stargazers)
 
-## 🛠️ Recipe
+## 📖 Description
+
+Travel between dimensions with potions!
+
+## 🛠️ Recipes
 
 ![recipe](https://raw.githubusercontent.com/lullaby6/dimensional-potions-data-pack/refs/heads/main/images/recipe.png)
 
