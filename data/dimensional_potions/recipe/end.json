@@ -3,13 +3,14 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "#N#",
-        "NPN",
+        "EPE",
         "#N#"
     ],
     "key": {
         "#": "minecraft:chorus_fruit",
         "N": "minecraft:end_stone",
-        "P": "minecraft:potion"
+        "P": "minecraft:potion",
+        "E": "minecraft:ender_pearl"
     },
     "result": {
         "id": "minecraft:command_block",
@@ -34,25 +35,11 @@
           "minecraft:potion_contents": {
             "custom_color": 14013323
           },
-          "minecraft:tooltip_display": {
-            "hidden_components": [
-              "minecraft:potion_contents"
-            ]
-          },
           "minecraft:custom_data": {
             "dimensional_potions.end": true
           },
-          "minecraft:custom_name": {
-            "text": "End Potion",
-            "italic": false
-          },
-          "minecraft:lore": [
-            {
-              "text": "Drink to teleport to the End",
-              "italic": false,
-              "color": "gray"
-            }
-          ]
+          "minecraft:custom_name": "{\"text\": \"End Potion\",\"italic\": false}",
+          "minecraft:lore": ["{\"text\": \"Drink to teleport to the End\",\"italic\": false,\"color\": \"gray\"}"]
         }
     }
 }

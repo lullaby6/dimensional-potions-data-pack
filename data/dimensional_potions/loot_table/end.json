@@ -34,25 +34,11 @@
                 "minecraft:potion_contents": {
                   "custom_color": 14013323
                 },
-                "minecraft:tooltip_display": {
-                  "hidden_components": [
-                    "minecraft:potion_contents"
-                  ]
-                },
                 "minecraft:custom_data": {
                   "dimensional_potions.end": true
                 },
-                "minecraft:custom_name": {
-                  "text": "End Potion",
-                  "italic": false
-                },
-                "minecraft:lore": [
-                  {
-                    "text": "Drink to teleport to the End",
-                    "italic": false,
-                    "color": "gray"
-                  }
-                ]
+                "minecraft:custom_name": "{\"text\": \"End Potion\",\"italic\": false}",
+                "minecraft:lore": ["{\"text\": \"Drink to teleport to the End\",\"italic\": false,\"color\": \"gray\"}"]
               }
             }
           ]
