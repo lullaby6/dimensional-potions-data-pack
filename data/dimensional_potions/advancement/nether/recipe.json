@@ -8,7 +8,8 @@
             "items": [
               "minecraft:blaze_powder",
               "minecraft:netherrack",
-              "minecraft:potion"
+              "minecraft:potion",
+              "minecraft:ender_pearl"
             ]
           }
         ]

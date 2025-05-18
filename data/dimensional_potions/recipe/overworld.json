@@ -3,13 +3,14 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "#N#",
-        "NPN",
+        "EPE",
         "#N#"
     ],
     "key": {
         "#": "#minecraft:flowers",
         "N": "minecraft:dirt",
-        "P": "minecraft:potion"
+        "P": "minecraft:potion",
+        "E": "minecraft:ender_pearl"
     },
     "result": {
         "id": "minecraft:command_block",

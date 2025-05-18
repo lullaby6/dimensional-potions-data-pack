@@ -3,13 +3,14 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "#N#",
-        "NPN",
+        "EPE",
         "#N#"
     ],
     "key": {
         "#": "minecraft:blaze_powder",
         "N": "minecraft:netherrack",
-        "P": "minecraft:potion"
+        "P": "minecraft:potion",
+        "E": "minecraft:ender_pearl"
     },
     "result": {
         "id": "minecraft:command_block",
